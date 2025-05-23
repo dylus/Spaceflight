@@ -1,0 +1,219 @@
+{
+  "count": 27871,
+  "next": "https://api.spaceflightnewsapi.net/v4/articles/?limit=10&offset=10",
+  "previous": null,
+  "results": [
+    {
+      "id": 31386,
+      "title": "NASA’s Moffett Federal Airfield Hosts Boeing Digital Taxi Tests",
+      "authors": [
+        {
+          "name": "NASA",
+          "socials": null
+        }
+      ],
+      "url": "https://www.nasa.gov/centers-and-facilities/ames/nasas-moffett-federal-airfield-hosts-boeing-digital-taxi-tests/",
+      "image_url": "https://www.nasa.gov/wp-content/uploads/2025/04/acd25-0018-012.jpg",
+      "news_site": "NASA",
+      "summary": "New technology tested by an industry partner at NASA’s Ames Research Center in California’s Silicon Valley could improve how commercial planes taxi to and from gates to runways, making operations safer and more efficient on the surfaces of airports. Airport taxiways are busy. Planes come and go while support vehicles provide maintenance, carry fuel, transport […]",
+      "published_at": "2025-05-22T16:32:51Z",
+      "updated_at": "2025-05-22T16:40:09.303086Z",
+      "featured": false,
+      "launches": [],
+      "events": []
+    },
+    {
+      "id": 31385,
+      "title": "NASA’s Dragonfly Mission Sets Sights on Titan’s Mysteries",
+      "authors": [
+        {
+          "name": "NASA",
+          "socials": null
+        }
+      ],
+      "url": "https://science.nasa.gov/solar-system/nasas-dragonfly-mission-sets-sights-on-titans-mysteries/",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/planetary-science-division/2025/dragonfly2.jpg",
+      "news_site": "NASA",
+      "summary": "When it descends through the thick golden haze on Saturn’s moon Titan, NASA’s Dragonfly rotorcraft will find eerily familiar terrain. Dunes wrap around Titan’s equator. Clouds drift across its skies. Rain drizzles. Rivers flow, forming canyons, lakes and seas.  But not everything is as familiar as it seems. At minus 292 degrees Fahrenheit, the dune […]",
+      "published_at": "2025-05-22T15:59:08Z",
+      "updated_at": "2025-05-22T16:10:08.336744Z",
+      "featured": false,
+      "launches": [],
+      "events": []
+    },
+    {
+      "id": 31384,
+      "title": "Winners Announced in NASA’s 2025 Gateways to Blue Skies Competition",
+      "authors": [
+        {
+          "name": "NASA",
+          "socials": null
+        }
+      ],
+      "url": "https://www.nasa.gov/aeronautics/winners-2025-gateways-to-blue-skies/",
+      "image_url": "https://www.nasa.gov/wp-content/uploads/2025/05/sdsu-first-place.jpg",
+      "news_site": "NASA",
+      "summary": "A team from South Dakota State University, with their project titled “Soil Testing and Plant Leaf Extraction Drone” took first place at the 2025 NASA Gateways to Blue Skies Competition, which challenged student teams to research aviation solutions to support U.S. agriculture. The winning project proposed a drone-based soil and tissue sampling process that would […]",
+      "published_at": "2025-05-22T15:52:45Z",
+      "updated_at": "2025-05-22T16:00:14.641184Z",
+      "featured": false,
+      "launches": [],
+      "events": []
+    },
+    {
+      "id": 31383,
+      "title": "Pentagon boosts budget for Palantir’s AI software in major expansion of Project Maven",
+      "authors": [
+        {
+          "name": "Sandra Erwin",
+          "socials": null
+        }
+      ],
+      "url": "https://spacenews.com/pentagon-boosts-budget-for-palantirs-ai-software-in-major-expansion-of-project-maven/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/05/2DA0463.jpg?fit=1024%2C683&quality=89&ssl=1",
+      "news_site": "SpaceNews",
+      "summary": "\nDoD increases contract ceiling to $1.3 billion as artificial intelligence transforms battlefield targeting\nThe post Pentagon boosts budget for Palantir’s AI software in major expansion of Project Maven appeared first on SpaceNews.",
+      "published_at": "2025-05-22T13:11:26Z",
+      "updated_at": "2025-05-22T13:20:14.778186Z",
+      "featured": false,
+      "launches": [],
+      "events": []
+    },
+    {
+      "id": 31381,
+      "title": "ESA seeks funding for ‘security and resilience’ satellite program",
+      "authors": [
+        {
+          "name": "Jeff Foust",
+          "socials": {
+            "x": "https://x.com/jeff_foust",
+            "youtube": "",
+            "instagram": "",
+            "linkedin": "https://www.linkedin.com/in/jefffoust",
+            "mastodon": "https://mastodon.social/@jfoust",
+            "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+          }
+        }
+      ],
+      "url": "https://spacenews.com/esa-seeks-funding-for-security-and-resilience-satellite-program/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/05/kubilius-aschbacher.jpeg?fit=1024%2C754&quality=89&ssl=1",
+      "news_site": "SpaceNews",
+      "summary": "\nThe European Space Agency will request funding from member states for an Earth observation satellite system for security applications, blurring the line between its traditional civil focus and defense work.\nThe post ESA seeks funding for ‘security and resilience’ satellite program appeared first on SpaceNews.",
+      "published_at": "2025-05-22T11:33:14Z",
+      "updated_at": "2025-05-22T11:40:12.198983Z",
+      "featured": false,
+      "launches": [],
+      "events": []
+    },
+    {
+      "id": 31380,
+      "title": "PiLogic raises $4 million for bespoke satellite AI models",
+      "authors": [
+        {
+          "name": "Jason Rainbow",
+          "socials": {
+            "x": "",
+            "youtube": "",
+            "instagram": "",
+            "linkedin": "https://www.linkedin.com/in/jasonrainbow",
+            "mastodon": "",
+            "bluesky": ""
+          }
+        }
+      ],
+      "url": "https://spacenews.com/pilogic-raises-4-million-for-bespoke-satellite-ai-models/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/05/mag-9792.jpg?fit=1024%2C819&quality=89&ssl=1",
+      "news_site": "SpaceNews",
+      "summary": "\nCalifornian software startup PiLogic announced $4 million in seed funding May 22 to develop satellite diagnostics and other artificial intelligence tools tailored for space applications.\nThe post PiLogic raises $4 million for bespoke satellite AI models appeared first on SpaceNews.",
+      "published_at": "2025-05-22T10:00:00Z",
+      "updated_at": "2025-05-22T10:00:20.131021Z",
+      "featured": false,
+      "launches": [],
+      "events": []
+    },
+    {
+      "id": 31379,
+      "title": "Navigate revisions to laws on hazardous chemicals in the EU",
+      "authors": [
+        {
+          "name": "ESA",
+          "socials": null
+        }
+      ],
+      "url": "https://www.esa.int/About_Us/Business_with_ESA/Navigate_revisions_to_laws_on_hazardous_chemicals_in_the_EU",
+      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2016/05/fuelling_galileo-13/15981064-1-eng-GB/Fuelling_Galileo-13_card_full.jpg",
+      "news_site": "ESA",
+      "summary": "Changes to regulations and processes will introduce new restrictions on the use of hazardous chemicals in the EU. These could impact space programmes, the space sector and its supply chains – PFAS, chromates and the REACH revision take centre stage. Register for ESA’s free workshop on 17 June providing clarification on these changes and join us for a panel discussion.",
+      "published_at": "2025-05-22T07:30:00Z",
+      "updated_at": "2025-05-22T07:50:14.054052Z",
+      "featured": false,
+      "launches": [],
+      "events": []
+    },
+    {
+      "id": 31378,
+      "title": "Connecting GEOINT innovation to the front lines",
+      "authors": [
+        {
+          "name": "SpaceNews Editor",
+          "socials": null
+        }
+      ],
+      "url": "https://spacenews.com/connecting-geoint-innovation-to-the-front-lines/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/05/2000-x-1500-Devin-Brande.png?fit=1024%2C768&quality=80&ssl=1",
+      "news_site": "SpaceNews",
+      "summary": "\nThis is a bonus edition of Space Minds by SpaceNews. Our guest today is Devin Brande, Director, Commercial Operations, National Geospatial-Intelligence Agency.\nThe post Connecting GEOINT innovation to the front lines appeared first on SpaceNews.",
+      "published_at": "2025-05-21T20:42:23Z",
+      "updated_at": "2025-05-21T20:50:12.863274Z",
+      "featured": false,
+      "launches": [],
+      "events": []
+    },
+    {
+      "id": 31377,
+      "title": "Blue Origin updates work on ‘transporter’ for Blue Moon lunar lander",
+      "authors": [
+        {
+          "name": "Jeff Foust",
+          "socials": {
+            "x": "https://x.com/jeff_foust",
+            "youtube": "",
+            "instagram": "",
+            "linkedin": "https://www.linkedin.com/in/jefffoust",
+            "mastodon": "https://mastodon.social/@jfoust",
+            "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+          }
+        }
+      ],
+      "url": "https://spacenews.com/blue-origin-updates-work-on-transporter-for-blue-moon-lunar-lander/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/05/bluemoon-transporter.jpeg?fit=1024%2C569&quality=89&ssl=1",
+      "news_site": "SpaceNews",
+      "summary": "\nBlue Origin revealed new details about its development of an Artemis lunar lander as the company nears the first launch of a smaller lander.\nThe post Blue Origin updates work on ‘transporter’ for Blue Moon lunar lander appeared first on SpaceNews.",
+      "published_at": "2025-05-21T20:37:45Z",
+      "updated_at": "2025-05-21T20:40:12.241902Z",
+      "featured": false,
+      "launches": [],
+      "events": []
+    },
+    {
+      "id": 31376,
+      "title": "Ursa, University of Illinois and Palantir win Luno A contracts",
+      "authors": [
+        {
+          "name": "Debra Werner",
+          "socials": null
+        }
+      ],
+      "url": "https://spacenews.com/ursa-university-of-illinois-and-palantir-win-luno-a-contracts/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/05/rsz__2da0286.jpg?fit=879%2C586&quality=89&ssl=1",
+      "news_site": "SpaceNews",
+      "summary": "\nST. LOUIS — The National Geospatial-Intelligence Agency announced Luno A awards May 21 to Palantir Technologies, the University of Illinois and Ursa Space Systems at the GEOINT Symposium 2025. Through […]\nThe post Ursa, University of Illinois and Palantir win Luno A contracts appeared first on SpaceNews.",
+      "published_at": "2025-05-21T19:38:17Z",
+      "updated_at": "2025-05-21T19:40:12.902052Z",
+      "featured": false,
+      "launches": [],
+      "events": []
+    }
+  ]
+}
+
